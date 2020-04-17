@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snake_Quarantined/static/css/main.11f5a4e4.chunk.css",
+    "main.js": "/Snake_Quarantined/static/js/main.6f075a8a.chunk.js",
+    "main.js.map": "/Snake_Quarantined/static/js/main.6f075a8a.chunk.js.map",
+    "runtime-main.js": "/Snake_Quarantined/static/js/runtime-main.caad58ed.js",
+    "runtime-main.js.map": "/Snake_Quarantined/static/js/runtime-main.caad58ed.js.map",
+    "static/js/2.9a7d0be8.chunk.js": "/Snake_Quarantined/static/js/2.9a7d0be8.chunk.js",
+    "static/js/2.9a7d0be8.chunk.js.map": "/Snake_Quarantined/static/js/2.9a7d0be8.chunk.js.map",
+    "index.html": "/Snake_Quarantined/index.html",
+    "precache-manifest.bc9b1b4ee911dcb32441943d156820a9.js": "/Snake_Quarantined/precache-manifest.bc9b1b4ee911dcb32441943d156820a9.js",
+    "service-worker.js": "/Snake_Quarantined/service-worker.js",
+    "static/css/main.11f5a4e4.chunk.css.map": "/Snake_Quarantined/static/css/main.11f5a4e4.chunk.css.map",
+    "static/js/2.9a7d0be8.chunk.js.LICENSE.txt": "/Snake_Quarantined/static/js/2.9a7d0be8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caad58ed.js",
+    "static/js/2.9a7d0be8.chunk.js",
+    "static/css/main.11f5a4e4.chunk.css",
+    "static/js/main.6f075a8a.chunk.js"
+  ]
+}
